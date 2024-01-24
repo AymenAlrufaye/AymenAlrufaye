@@ -53,16 +53,3 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 </div>
-
-</br>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kylekce&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kylekce&theme=dark&hide_border=true" alt="GitHub Streak Stats">
-    </td>
-  </tr>
-</table>
