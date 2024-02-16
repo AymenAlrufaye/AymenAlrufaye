@@ -3,7 +3,8 @@
 - [Javascript algorithms and data structures - freeCodeCamp](https://www.freecodecamp.org/certification/AymenAlrufaye/javascript-algorithms-and-data-structures)
 - [Machine learning with python - freeCodeCamp](https://www.freecodecamp.org/certification/AymenAlrufaye/machine-learning-with-python-v7)
 - [Responsive web design - freeCodeCamp](https://www.freecodecamp.org/certification/AymenAlrufaye/responsive-web-design)
-- [Fron end development libaries- freeCodeCamp](https://www.freecodecamp.org/certification/AymenAlrufaye/front-end-development-libraries)
+- [Front end development - libaries- freeCodeCamp](https://www.freecodecamp.org/certification/AymenAlrufaye/front-end-development-libraries)
+- [ Scientific computing with Python - freeCodeCamp]([https://www.freecodecamp.org/certification/AymenAlrufaye/scientific-computing-with-python-v7)
 
 ### 💻 Languages
 <p>  
