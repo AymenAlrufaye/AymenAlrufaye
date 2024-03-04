@@ -3,7 +3,7 @@
 - [Javascript algorithms and data structures - freeCodeCamp](https://www.freecodecamp.org/certification/AymenAlrufaye/javascript-algorithms-and-data-structures)
 - [Machine learning with python - freeCodeCamp](https://www.freecodecamp.org/certification/AymenAlrufaye/machine-learning-with-python-v7)
 - [Responsive web design - freeCodeCamp](https://www.freecodecamp.org/certification/AymenAlrufaye/responsive-web-design)
-- [Front end development - libaries- freeCodeCamp](https://www.freecodecamp.org/certification/AymenAlrufaye/front-end-development-libraries)
+- [Front end development libaries- freeCodeCamp](https://www.freecodecamp.org/certification/AymenAlrufaye/front-end-development-libraries)
 ### 💻 Languages
 <p>  
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
