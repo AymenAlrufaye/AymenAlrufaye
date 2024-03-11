@@ -1,7 +1,6 @@
 ### 🏆 Certifications
 - [Introduction to Programming with Python - Harvard](https://cs50.harvard.edu/certificates/ce41991e-978e-43da-adce-79551eb9bf06)
 - [Javascript algorithms and data structures - freeCodeCamp](https://www.freecodecamp.org/certification/AymenAlrufaye/javascript-algorithms-and-data-structures)
-- [Machine learning with python - freeCodeCamp](https://www.freecodecamp.org/certification/AymenAlrufaye/machine-learning-with-python-v7)
 - [Responsive web design - freeCodeCamp](https://www.freecodecamp.org/certification/AymenAlrufaye/responsive-web-design)
 - [Front end development libaries- freeCodeCamp](https://www.freecodecamp.org/certification/AymenAlrufaye/front-end-development-libraries)
 ### 💻 Languages
