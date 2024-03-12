@@ -2,7 +2,6 @@
 - [Introduction to Programming with Python - Harvard](https://cs50.harvard.edu/certificates/ce41991e-978e-43da-adce-79551eb9bf06)
 - [Introduction to Programming with Scratch - Harvard](https://certificates.cs50.io/99a0f62d-334a-410b-83fc-469eec839501.pdf?size=A4)
 - [Javascript algorithms and data structures - freeCodeCamp](https://www.freecodecamp.org/certification/AymenAlrufaye/javascript-algorithms-and-data-structures)
-- [Responsive web design - freeCodeCamp](https://www.freecodecamp.org/certification/AymenAlrufaye/responsive-web-design)
 - [Front end development libaries- freeCodeCamp](https://www.freecodecamp.org/certification/AymenAlrufaye/front-end-development-libraries)
 ### 💻 Languages
 <p>  
